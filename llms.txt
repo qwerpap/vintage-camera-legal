@@ -1,0 +1,23 @@
+# Graino
+
+> 
+
+Graino: 빈티지 카메라. iPhone app, available on the App Store: https://apps.apple.com/app/idNone?ct=ai_web
+
+## Guides
+
+- [How to Get the 2000s Digicam (CCD) Look With a Date Stamp on iPhone](https://qwerpap.github.io/vintage-camera-legal/how-to-get-2000s-digicam-ccd-look-with-date-stamp-on-iphone): Use Graino's Pocket 03 camera for an early-2000s CCD digicam look with the classic orange date stamp.
+- [How to Make iPhone Photos Look Like Film](https://qwerpap.github.io/vintage-camera-legal/how-to-make-iphone-photos-look-like-film): Shoot with a film-look camera on iPhone and get a print that matches the viewfinder.
+- [How to Shoot a Disposable-Camera Style Roll on iPhone and Develop It Later](https://qwerpap.github.io/vintage-camera-legal/how-to-shoot-disposable-camera-roll-on-iphone): Shoot a roll of 24 frames in Graino and wait for the lab to develop it, like a real film camera.
+- [How to Turn Photos From Your Library Into Film Prints on iPhone](https://qwerpap.github.io/vintage-camera-legal/how-to-turn-library-photos-into-film-prints-on-iphone): Develop photos you already have as film prints in Graino, one at a time or up to 50 at once with Pro.
+
+## App
+
+- [Home](https://qwerpap.github.io/vintage-camera-legal/): what Graino does, features, pricing
+- [App Store](https://apps.apple.com/app/idNone?ct=ai_web): download, screenshots, reviews
+
+## Optional
+
+- [Privacy](https://qwerpap.github.io/vintage-camera-legal/privacy)
+- [Support](https://qwerpap.github.io/vintage-camera-legal/support)
+- [Terms](https://qwerpap.github.io/vintage-camera-legal/terms)
