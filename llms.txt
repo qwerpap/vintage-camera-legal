@@ -1,8 +1,8 @@
 # Graino
 
-> 
+> All 10 cameras, 36-frame rolls, instant developing
 
-Graino: 빈티지 카메라. iPhone app, available on the App Store: https://apps.apple.com/app/idNone?ct=ai_web
+Graino: 빈티지 카메라. iPhone app, available on the App Store: https://apps.apple.com/app/id6825757640?pt=128855456&ct=ai_web
 
 ## Guides
 
@@ -14,7 +14,7 @@ Graino: 빈티지 카메라. iPhone app, available on the App Store: https://app
 ## App
 
 - [Home](https://qwerpap.github.io/vintage-camera-legal/): what Graino does, features, pricing
-- [App Store](https://apps.apple.com/app/idNone?ct=ai_web): download, screenshots, reviews
+- [App Store](https://apps.apple.com/app/id6825757640?pt=128855456&ct=ai_web): download, screenshots, reviews
 
 ## Optional
 
